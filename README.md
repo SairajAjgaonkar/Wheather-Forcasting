@@ -1,4 +1,4 @@
-###Weather Forecasting Project
+### Weather Forecasting Project
 
 This project leverages data science and visualization techniques to forecast weather conditions and present them in an interactive dashboard format using Power BI.
 📁 Project Files
