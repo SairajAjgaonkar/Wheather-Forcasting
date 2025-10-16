@@ -50,6 +50,6 @@ Interact with the dashboard to explore trends and insights.
 
 
 Team : FT-DA-Team-7-67f7f1e
-Sairaj Kishor Ajgaonkar
-Sagar Kumar
-Nikhilesh Yadapaka
+Sairaj Kishor Ajgaonkar,
+Sagar Kumar,
+Nikhilesh Yadapaka.
